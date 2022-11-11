@@ -1,3 +1,3 @@
-![grafik](https://user-images.githubusercontent.com/40861554/196944486-25678ba6-38bc-4b3a-aaa0-7379f45d11f1.png)
+![grafik](https://user-images.githubusercontent.com/40861554/201373659-d35f5fe3-1f59-456b-9d15-6023cda9ce72.png)
 
 The [Leibniz Supercomputing Centre (LRZ)](https://www.lrz.de/) of the [Bavarian Academy of Sciences and Humanities (BAdW)](https://badw.de/en/the-academy.html) proudly provides IT service and computing facilities serving Munich’s top universities and colleges as well as research institutions in Bavaria, Germany and Europe. LRZ is part of the [Gauss Centre for Supercomputing (GCS)](https://www.gauss-centre.eu/) providing the backbone for advanced research and discovery through high-performance computing (HPC) in Germany. 
